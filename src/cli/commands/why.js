@@ -180,7 +180,7 @@ export async function run(
   }
 
   // package sizes
-  reporter.step(4, 4, reporter.lang('whyCalculating'), emoji.get('aerial_tramway'));
+  reporter.step(4, 4, reporter.lang('whyCalculating'), emoji.get('file_folder'));
 
   let packageSize = 0;
   let directSizes = [];
